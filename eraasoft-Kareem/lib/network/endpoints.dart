@@ -1,0 +1,10 @@
+String baseUrl='https://eraastore.eraasoft.com/api/';
+String loginn='auth/login';
+// String token='';
+String categories='categories';
+String products='products';
+String orders='order';
+String register="auth/register";
+String addToCart='addtocart';
+String getCartss='carts';
+String searchh='searchproductnames';
